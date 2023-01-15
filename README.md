@@ -1,3 +1,4 @@
+![logo](https://github.com/botirjonshokirov/botirjonshokirov/blob/main/botirjon%20shokirov.png)
 <h1 align="center">Hi 👋, I'm BOTIRJON SHOKIROV</h1>
 <h3 align="center">A passionate frontend developer from UZBEKISTAN</h3>
 
