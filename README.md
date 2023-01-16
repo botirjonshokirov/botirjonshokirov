@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=botirjonshokirov&label=Profile%20views&color=0e75b6&style=flat" alt="botirjonshokirov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=botirjonshokirov" alt="botirjonshokirov" /></a> </p>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 - 🔭 I’m currently working on **React Applications**
