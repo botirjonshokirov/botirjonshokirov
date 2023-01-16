@@ -8,6 +8,7 @@
 
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 - 🔭 I’m currently working on **React Applications**
 
 - 🌱 I’m currently learning **React, Firebase, AI**
